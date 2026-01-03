@@ -47,7 +47,7 @@
 
 ## 📁 Project Structure
 
-
+```
 lib/
 ├── cubits/
 │   ├── wallet_cubit.dart          # Wallet balance state
@@ -62,7 +62,7 @@ lib/
 │   ├── history_screen.dart        # Transaction history
 │   └── settings_screen.dart       # Theme & settings
 └── main.dart                                            # Entry point
-
+```
 
 ⚠ *Note*: Some configuration files (e.g., Paystack keys, environment variables) are excluded from this repository for security reasons. They can be provided upon request for testing or collaboration.
 
